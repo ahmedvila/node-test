@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/ahmedvila/node-test#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "google-assistant": "^0.6.0",
+    "node-record-lpcm16": "^1.0.1",
+    "speaker": "^0.4.2"
   }
 }
